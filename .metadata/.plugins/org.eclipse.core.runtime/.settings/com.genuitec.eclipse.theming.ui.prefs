@@ -1,10 +1,12 @@
 applyBackground=false
 approved.defs.file.last.changed.time=1585005899000
+codemix.dont.show.upsell.until=1588137505206
 configurationInstallLocation=/C\:/Users/PC/eclipse/java-2019-12/eclipse/
 eclipse.preferences.version=1
 elearning.dont.show.until=1587300962166
 iconcolormode=primary
-last.download.attempt.time=1586264172411
-lastConfiguration=1586265503117
+includeThemingInOomph=false
+last.download.attempt.time=1586266805294
+lastConfiguration=1586266811039
 newinstall=true
 workbench.theme=Dark Gray
