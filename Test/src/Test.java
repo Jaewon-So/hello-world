@@ -5,7 +5,5 @@ public class Test {
 		System.out.println("Source Tree go 1");
 		System.out.println("Source Tree go 2");
 		System.out.println("Source Tree go 3");
-		System.out.println("Source Tree go 4");
-		System.out.println("Source Tree go 5");
 	}
 }
